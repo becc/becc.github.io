@@ -9,7 +9,7 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               <img src="http://becc.github.io/public/logo.png"> becc
+title:               <img src="/public/logo.png" width="35px" style="display:inline;margin-right:-6px;margin-bottom:-8px;"> becc
 tagline:             'digital security simply'
 description:         'Dedicated to helping customers build the simplest controls to make them the most secure.'
 url:                 http://blog.becc.io
